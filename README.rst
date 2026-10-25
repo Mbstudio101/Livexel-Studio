@@ -1,4 +1,4 @@
-OBS Studio <https://obsproject.com>
+Livexel Studio <https://obsproject.com>
 ===================================
 
 .. image:: https://github.com/obsproject/obs-studio/actions/workflows/push.yaml/badge.svg?branch=master
@@ -10,10 +10,10 @@ OBS Studio <https://obsproject.com>
    :target: https://crowdin.com/project/obs-studio
 
 .. image:: https://img.shields.io/discord/348973006581923840.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2
-   :alt: OBS Studio Discord Server
+   :alt: Livexel Studio Discord Server
    :target: https://obsproject.com/discord
 
-What is OBS Studio?
+What is Livexel Studio?
 -------------------
 
 OBS Studio is software designed for capturing, compositing, encoding,
